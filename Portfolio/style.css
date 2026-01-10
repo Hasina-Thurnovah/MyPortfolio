@@ -216,6 +216,7 @@ color: var(--main-color);
     justify-content: center;
     align-items: center;
     object-fit:cover;
+    width:100%;
     
 }
 .portfolio-box:hover img{
